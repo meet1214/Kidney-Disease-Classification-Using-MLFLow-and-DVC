@@ -43,10 +43,9 @@ pip install -r requirements.txt
 python app.py
 ```
 
+
 Now,
-```bash
-open up you local host and port
-```
+Open your browser and go to http://localhost:5000 (or the port shown in your terminal) to access the app.
 
 
 
@@ -92,18 +91,20 @@ export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
 
 ## About MLflow & DVC
 
+
 MLflow
 
- - Its Production Grade
- - Trace all of your expriements
- - Logging & taging your model
+- It's production grade
+- Trace all of your experiments
+- Logging & tagging your model
 
 
-DVC 
 
- - Its very lite weight for POC only
- - lite weight expriements tracker
- - It can perform Orchestration (Creating Pipelines)
+DVC
+
+- It's very lightweight for POC only
+- Lightweight experiments tracker
+- It can perform orchestration (creating pipelines)
 
 
 
@@ -122,15 +123,16 @@ DVC
 
 	#Description: About the deployment
 
+
 	1. Build docker image of the source code
 
 	2. Push your docker image to ECR
 
-	3. Launch Your EC2 
+	3. Launch your EC2
 
-	4. Pull Your image from ECR in EC2
+	4. Pull your image from ECR in EC2
 
-	5. Lauch your docker image in EC2
+	5. Launch your docker image in EC2
 
 	#Policy:
 
@@ -174,8 +176,7 @@ DVC
 
     AWS_SECRET_ACCESS_KEY=
 
-    AWS_REGION = us-east-1
 
-    AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
-
-    ECR_REPOSITORY_NAME = simple-app
+	AWS_REGION = us-east-1
+	AWS_ECR_LOGIN_URI = 566373416292.dkr.ecr.us-east-1.amazonaws.com
+	ECR_REPOSITORY_NAME = simple-app
