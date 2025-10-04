@@ -497,3 +497,121 @@ zipfile.BadZipFile: File is not a zip file
 [2025-10-04 06:58:40,074:INFO:common:created directory at: artifacts/data_ingestion]
 [2025-10-04 06:58:40,076:INFO:986331348:Downloading data from https://drive.google.com/file/d/1JzcLKYUBjGK_4uRjNNMFjmfhJLqKnj1o/view?usp=sharing into file artifacts/data_ingestion/data.zip]
 [2025-10-04 06:58:50,730:INFO:986331348:Downloaded data from https://drive.google.com/file/d/1JzcLKYUBjGK_4uRjNNMFjmfhJLqKnj1o/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-10-04 07:25:38,495:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 07:25:38,503:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 07:25:38,505:INFO:common:created directory at: artifacts]
+[2025-10-04 07:25:38,508:INFO:common:created directory at: artifacts/prepare_base_model]
+[2025-10-04 07:25:52,076:WARNING:saving_api:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-04 07:25:52,436:WARNING:saving_api:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-04 07:33:48,834:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-10-04 07:33:48,837:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 07:33:48,839:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 07:33:48,840:INFO:common:created directory at: artifacts]
+[2025-10-04 07:33:48,840:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-04 07:33:49,978:INFO:data_ingestion:artifacts/data_ingestion/data.zip download: with following info: 
+ Content-Type: text/html; charset=utf-8
+X-Robots-Tag: noindex, nofollow, nosnippet
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Fri, 03 Oct 2025 20:47:27 GMT
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Content-Security-Policy: require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/docs-tt
+Reporting-Endpoints: default="/file/d/1JzcLKYUBjGK_4uRjNNMFjmfhJLqKnj1o/web-reports?bl=apps-fileview.texmex_20250925.00_p0&app=15&clss=1&context=eJwVyXlc1HUex_Fp5vd9S3INAyKHHDJcE6HoYzHAkcPhcjWVTR14tEAeYCoYLYiiiCJiqGu4xeZj8wAZVGBAri5CbVOQY4WINi0U25CjAMV1VUh6yL794_l4vD-vz8xuq2ITvazaVC-bII2ZXmZQ6mV77PSyek-97H2NXjb9il42w0cv8_HVy_L89LKAY3pZNCVsipVtf-GVUXkmvdH_SP4mLVv-P3kMXdr_RN5MDblP5E10dtuEvILOaiflFVS0ZFJ-imYmT8pVdO_IpHyUMjt-k-eQl-qZfD71lzyTj1DX9HP5TXJ1mpZ7k0nWtFxJA4aXFGNk2yJXOFPXc7niJt37k0IxSntyFYo8OnNIoThPpYMKRSVdf1lSdJFsPEgyobuPF0tDdOSEVvqAzlVppWpKC1gi7aJ092BpD43pQ6XHlBEdJmWT7_IwyZ8u54VJnaT5KEwKpKn7YZLiQZgUkr1UiqJs41LpIGmql0oLKDVNJ-2g1kyd9A01Zumkdqqv0UlfknmDTppF-Z_qpGNk4RYu2dI3PhHSLVJujZDs6PC7EdLfKPpKhLSalMPsVOQfKZ2ihE2R0nYypkdJTdSxLVrqoTzrZdJR8p7xR8mPjr5RLD6kvW8Xi3w69XmxKCPXtSXCj_7xuEScpVWqUpFIDo6lwo0Mr5WKBipfWSpqyc7GILxps71B7KQvrxlEB9k3G4SGrO5w09pxg4in1xLKRBSZbikT1tSTUiZ6KWegTByirRvPid20pu6c-DMpLp8XpmTYfUEY6fLBC6KFfF3KhT_9Na5cFFFHQbnooUtj5eIG9f5aKfpp_FWjmKC4lUaxnvZuMop8UuUYhQMtqzCKGJo4XCWm6ddjVeI3SvSpFpupPbla_EhFz6tFGSlXXxSu1LPhouilzO0XRQ7drB4Rd-lS94hoJmP8qGigjcWjIp0eto2KSXocPCZ-pxNXx0QxfffxfXGbJmNNIYszheqKKaJ7TfE6xT0zRQIZT5qhljpPmaGHigfMcIGaLc1xg7JSzXGYgr4wx1I6OmqO4xQTYoF1ZHvAAs60uMUCOupMtkQPfX_GEn1UeU6JeiqoUOIYFVYqUUSzppTwoJE3rfCImuqtcI2a_FS4Rs2LVWgnY7YKtdTzljV6SbHBGqY02WkDWZcNknptsIP679hghLqzZuEHsnxvFmbT12dt0U4779hiH63YOBtraHvKbGRSnasdGsnFzQ7zySrZDvbUVm2Hbhpot8MYHQ6yx_vUVmKPblphsMcaajjigCZa9NABwVQ34YBGenWrI_5A7x5yRCbFHnfEW1Szbw4-oYYDc_AFXW-cgy6qdnbCZXpa54QpKh50QhmtcnfGGtqT6Yw80lc5QzvujHD6wdkFfdSqdsEt2r3CBQcoL9kFBeT5qQvm0RRcoZjhipAAV0SR9VZXyBtdMZN-6XLFffrJMBfDFFA-F9FkMt8NSroa5IYe2vGOG_KphGrpxww3_EwflrjhJN1doMYQKUPUsKPKtWrU0PrzaiRTRqMa2fTdv9W4TUFTaoTQ_AR3DH3sjgf0zvfuyHghwQNZFFPkgTi6ss4T10kX64nltFPhhb44LwySeb4XAqu8EExzrLwxl749442bdHHIG5_RNkmDdPK21MCX_JQaBNB-Kw0KqM5ag0Yy2mjQQMMhQRij47FB-Ds5Vi2GmlqUWnSQp50WPjTkrsUoWURrYU1ilRbm9J8c_qi_VYthetqnxRS9J1uCQvrl5BLcp-G9wRijtg-C0U397iEYoZcWhAD0umco4inUNxTRFH86FBtoHx2kGvqEWqjjRa9gp_TmUOyhlz3CYEULdGEIpLiCMKynRafDEEx7I3XIp74UHQbpdKoOpZS1S4dceviRDk_oq9s6NFPhX8JRRNPfhmNGTzgwHg4Lets3Aqn01BiB51RYG4ETFPtzBOLpqioSHXQmJhJl1HY6Ep30r5pIdNP-f0aigDb8NxKbqeD3SARkRCGULKqiYEsjd6LwiGIWRWMdVVM9FT6IxglKvnUPmTSyegCPKCVxABkUuHkAwbTy6wEkUGvIIG7QJuMg8r4aRAEVUhGdpBJyyh2CB6nMTH4a298KZXnupSsKB2ndlqSdbur1aWnpvslbUpIyec7LSNqVmrQrcaHfQn-_wIX-8_z8EtP8_g_w-xxH&build-label=apps-fileview.texmex_20250925.00_p0&imp-sid=CIWdwa3ziJADFQgeoAAdtYcfRw&is-cached-offline=false"
+Document-Policy: include-js-call-stacks-in-crash-reports
+Referrer-Policy: origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Set-Cookie: NID=525=e6ZsQCnJduIdvmKOdle1-gaIafpNCQA07iuBYmIJH-VE9CCH4jdgMSxmZHiAprwPAgKfcPy_xkNmJVPU7VqaH7uaFqwhfUJXnW9jcyoHv0a2esKST_M6w-9EybJuZLo2X_do4MGboVTiJGUn71TSMWW7VgNeLztekVWxfJPXk21ksVhFi9EyR7YlUMZwH8ou; expires=Sat, 04-Apr-2026 20:47:27 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+
+]
+[2025-10-04 07:33:49,979:ERROR:main:File is not a zip file]
+Traceback (most recent call last):
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/main.py", line 13, in <module>
+    data_ingestion.main()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/components/data_ingestion.py", line 32, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1385, in __init__
+    self._RealGetContents()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1452, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2025-10-04 07:35:12,057:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-10-04 07:35:12,060:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 07:35:12,062:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 07:35:12,062:INFO:common:created directory at: artifacts]
+[2025-10-04 07:35:12,063:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-04 07:35:12,904:INFO:data_ingestion:artifacts/data_ingestion/data.zip download: with following info: 
+ Content-Type: text/html; charset=utf-8
+X-Robots-Tag: noindex, nofollow, nosnippet
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Fri, 03 Oct 2025 20:48:58 GMT
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Content-Security-Policy: require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/docs-tt
+Reporting-Endpoints: default="/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/web-reports?bl=apps-fileview.texmex_20250925.00_p0&app=15&clss=1&context=eJwVyHlc1HUex_Fx5vd9i3INh3IpjIDARAj6WAxx5HBgwDxZ0YFHAXmAq4LRgiiBeCAGuh5blI9NEQQ0YECu2g1RaxUEWUHCTRPFHiFHcYRrHiQ9ZN_-8Xx8Pu_X9CaLQiO9rMpYL1Ob6GUlSr0sw1Yvq3PTy46p9bLJN_SyqZ56maeXXpbto5f5HdXLwil2c5Rsx2tvDMvTaG3vE_k7tGz5b_IIurTvmbyJ6vc_kzfS2e0v5OV0VjMuL6f8JePy0zQ9YVxuSY8Oj8uHKa3td3kWuVu-lHtTb9FL-RB1TL6S3yHV7Em5BxmlT8qV1FcyRTFCM5vlCkfqeCVX3KFHf1Yohiljv0KRTWcOKRTnqbhfoaig69MkRQfJxvwlI3r4dLE0QIdPaqSP6VylRqqiZL8l0m5KcQ2QMmhEHyQ9pdTwYCmTvJYHS750OTtYaif1Z8HSIpoYDZYUvwZLgZlLpTDKNCyVDpK6aqk0n5KStdJOaknTSreoIV0r3aC6aq10kUzrtdIMyvlKKx0lM-cQaSbd8gyV7pJyW6hkS3kfhEp_p_ArodIaUg6yU76vTjpNsZt10g4ypIRJjdS2PVzqomyrZdIR8pj6tuRDR9YWik_o9L8KRSmp1hUJH_rH0yJxllZbFos4sncoFs5U8laxqKeyVcWihmytS4QHbbErEbvo4rUS0UZ2TSVCTRYP-NO6sRIRQ2_FloowMt5aKqyoK7FUdFNWX6k4RNs2nRMfUmTtOfEuKS6fF8Z0-eAXopm8nMqEL_0tukzkU1tumeiiSyNl4iZ1_1Iheum3oQoxQWNvGsQLil5lEBtoz2aDyCHLLIOwp2XlBhFBL_IqxST9crRS_E5xnlViC91IqBL3KP9VlSgl5ZoLQkVdGy-IbkrbcUFk0e20IXGf7lQNiYd0qXNINJEhZljU06bCYZFCj1uHxTg9DRgRf9DJqyOikG5_Piru03iUMWTRxrC8YozwbmOspLUvjRFFhlMmqKH20yboosI-E3xBTeamuEnpSabII_-vTbGUjgyb4gRFBJphPakOmMGDFjebQUvtCeboou_PmKOHKs4pUUe55UocpeMVSuTTjAkl5tLQOxZ4Qo11FrhGjT6WuEZtiy1xiwyZlqihrves0E2KjVYwpvF2a8g6rBHfbY2d1PvAGkPUmT4DP5D5RzNgQ7sezMReioQN3qUVm2wQSTsSbZBGtSpbNJCTsy28ySLBFnbUWmWLTuq7YYsRyvO3wzFqLbJDJ60osUMk1R-2RyMtfGyPAKp9YY8GenObA_5EHxxyQBpFnXDAe1S9dxa-pPoDs_A1XW-YhQ6qcpyNy_S8djYmqLB_NkpptasjIikjzRHZtLLSEZoxR4TQD45O6KEWFyfcpQ9XOOEA7UngJbevnDCPJqCCYqoKgX4qhNG0bSrIG1SYTj93qDBKP5bMwSD5lc1BOBl5O0NJV_2d0UU733dGDhVRDd1LdcZP9EmRM07Rw_kuGCBloAtsqWKdC6ppw3kXJFBqgwsy6fZ_XXCf_CdcEEjesa4Y-NwVv9L737si9bXYuUiniPy5iKYr691wnbRRblhOuxTu6Il2Rz-Z5rhjloUH5tB3Zzxwhy4MeOCftF1SI4U8zNXwIh-lGn60z0KNXKq1UqOBDNZq1NNgoD9G6ESUPz4lh8rFcKFmpQZt5GargScNuGowTGbhGliR-WoNbOhelgY_Um-LBoP0vEeDCfpItgTH6edTSzBKg3sCMEKtHwegk3pdAzFEU-YHArTSLQgxFOQVhHCKKQjCRtpLB6mavqRmanvdy9kppSkIGTRtbjAsaL42GIsoOjcYG2hhQTACaI9OixzqSdSinwqStCim9N1a7KfHn2nxjL65r0UTHf9rCPJp8rsQTO0KAcZCYEZ_8QpFEhVQMT03hOIVHa8JxUmK-ikUMXTVUoc2OhOhQym1FujQTv-p1qGT9n2rQy5t_J8OWyj3Dx38UsMQRGaVYZhJQw_C8IQiFoZjPVVRHSXcfYQ0GlrThyeUGNeHVFq0pQ8BtOrffYillsB-3KTNhn5kf9OPXMqjY3SKish9_wC8ydLE6OLovhYoa741tEyxl9Zvjd_l7LIhOTnFK2FrYnwa57zU-N1J8bvjFvgs8PVZtMB3no9PXLLP_wEm0hg7&build-label=apps-fileview.texmex_20250925.00_p0&imp-sid=CNTp1NjziJADFWHwcwQdPlMoJQ&is-cached-offline=false"
+Document-Policy: include-js-call-stacks-in-crash-reports
+Referrer-Policy: origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Set-Cookie: NID=525=JzOqcL0LwoxTfGWQxUIrnc6cAwejzuUsEwQQEDowkrb-FJDmVrwK6ZAvIHmbyJcux6Tl0157SVIG4dQ6Z9gINGtKkA1HZqQupvVyr0hCEFhmgKDzG2eykQ2nRryma083JukgObeX_zcoLogf2K9pJTDwAZXKkMg1Cx4mOaslEXL3wXSULXungQHxdT3F3hxc; expires=Sat, 04-Apr-2026 20:48:58 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+
+]
+[2025-10-04 07:35:12,904:ERROR:main:File is not a zip file]
+Traceback (most recent call last):
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/main.py", line 13, in <module>
+    data_ingestion.main()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/components/data_ingestion.py", line 32, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1385, in __init__
+    self._RealGetContents()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1452, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2025-10-04 07:37:31,594:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-10-04 07:37:31,597:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 07:37:31,599:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 07:37:31,600:INFO:common:created directory at: artifacts]
+[2025-10-04 07:37:31,600:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-04 07:37:31,600:INFO:data_ingestion:File already exists of size: ~ 56361 KB]
+[2025-10-04 07:37:32,464:INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-10-04 07:37:32,464:INFO:main:*******************]
+[2025-10-04 07:37:32,465:INFO:main:>>>>>> stage Prepare base model started <<<<<<]
+[2025-10-04 07:37:32,467:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 07:37:32,470:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 07:37:32,470:INFO:common:created directory at: artifacts]
+[2025-10-04 07:37:32,470:INFO:common:created directory at: artifacts/prepare_base_model]
+[2025-10-04 07:37:33,235:WARNING:saving_api:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-04 07:37:33,535:WARNING:saving_api:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2025-10-04 07:37:33,752:INFO:main:>>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
