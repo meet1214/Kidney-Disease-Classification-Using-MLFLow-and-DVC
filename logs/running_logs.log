@@ -1,0 +1,499 @@
+[2025-10-04 03:39:55,834:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 03:39:55,839:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 03:41:02,031:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 03:41:02,036:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 03:41:02,038:INFO:common:created directory at: artifacts]
+[2025-10-04 03:41:02,041:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-04 03:41:02,043:INFO:986331348:Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2025-10-04 03:41:15,782:INFO:986331348:Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2025-10-04 06:07:24,192:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 06:07:24,196:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 06:07:24,200:INFO:common:created directory at: artifacts]
+[2025-10-04 06:07:24,202:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-04 06:07:24,204:INFO:986331348:Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2025-10-04 06:07:36,675:INFO:986331348:Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2025-10-04 06:34:45,260:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-10-04 06:34:45,266:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 06:34:45,267:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 06:34:45,268:INFO:common:created directory at: artifacts]
+[2025-10-04 06:34:45,268:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-04 06:34:45,269:INFO:data_ingestion:File already exists of size: ~ 56361 KB]
+[2025-10-04 06:34:46,522:INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-10-04 06:35:00,295:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-10-04 06:35:00,301:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 06:35:00,303:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 06:35:00,304:INFO:common:created directory at: artifacts]
+[2025-10-04 06:35:00,304:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-04 06:35:01,536:INFO:data_ingestion:artifacts/data_ingestion/data.zip download: with following info: 
+ Content-Type: text/html; charset=utf-8
+X-Robots-Tag: noindex, nofollow, nosnippet
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Fri, 03 Oct 2025 19:43:18 GMT
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Content-Security-Policy: require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/docs-tt
+Reporting-Endpoints: default="/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/web-reports?bl=apps-fileview.texmex_20250925.00_p0&app=15&clss=1&context=eJwVyHlY1HUCx_Fx5vf9iHINh8ohMHLJRCj6LIY4cjgcY55s6sDTAnmAqWC0IEqAF2KoGW6xWXmADBowIFftRqjtKgiyQoQbJoo9IUcBiuuikLSyH_94PZ_n857ebFVgopdVmOplY6Q208sMSr0sw04vq_HUyz5U62WTr-hlU731Mm8fvSzbVy_zP66X6Sh2S5Rs50uvDMnT6I2eJ_I3afmK_8oj6dL-p_IGqj3wVF5P53aMyUvpnGZcXkr5S8flp2l6wrjcmh4cHZcPUVrLb_K9NNf6uXw-9RQ-lw9S2-QLeSepnCblXmSSPilXUq9himKYZjbKFc7U9kKu6KQHf1QohijjgEKRTWcPKxQXqKhPoSij69MkRRvJRgIkE7o_ukTqp6MnNdJHlOy_VNpDKe6BUgYN64OlUUrVhUiZ5LMiRPKjy9khUiupPwmRFtPEwxBJ8ShECspcJkVQpnGZdIjUFcukBZSUrJV2UVOaVvqO6tK10g2qqdRK35B5rVaaQTlfaaXjZOEaKs2k77zDpNuk3B4m2dGRd8Okv5DuSpi0lpQD7JTvFy6dptgt4dJOMqZESPXUskMndVC2zXLpGHlNfV3ypWNvFIiPKevtApFDp_9eIIpJtb5Q-NJno4XiHK2xLhJx5OBYJFzJ8FqRqKWS1UWiiuxsDcKLttobxG765ppBtJB9g0Go6bPrBnGOrO6x0foRg4ih12KLRQSZbisWNtSRWCy6aG9vsThM2zefF-_Ruurz4k-kuHxBmNLlQ1-IRvJxKRF-9EF0icinltwS0UGXhkvETer6tUz00MirRjFG0auNYiNlbTGKHLLeaxQOtLzUKCJp7Ei5mKRfj5eL3yjOu0JspRsJFeIO5b-oEMWkXHtRqKhj00XRRWk7L4q9dCttUNylzopBcZ8utQ-KBjLGDIla2lwwJFLocfOQGKfRwGHxO528OiwK6NbnD8VdGo8yhSzaFNZXTKHrMsUqin5uilgynjJDFbWeNkMHFfSa4QtqsDTHTUpPMscRCvjaHMvo2JA5TlBkkAU2kOqgBbxoSaMFtNSaYIkO-uGsJbqp7LwSNZRbqsRxyitTIp9mTCjhQYNvWuEJ1ddY4RrV-1rjGjUsscYNMmZao4o63rJBFyk22cCUxlttIWuzRXyXLXZRzz1bDFJ7-gz8SJbvz8As2n1vJvbRys2zsI52Js5CGlWr7FBHLq52mE9WCXawp-YKO7RT7w07DNORAHt8SM2F9minlQZ7rKPaow6op0WPHRBI1WMOqKNXtzviD_TuYUekUdQJR7xFlftm40uqPTgbX9P1utloowpnJ1ymZ9VOmKCCPicU0xp3Z6yjjDRnZNOqcmdoRpwRSj86u6CbmtxccJveW-mCg5SVwCXPr1wwjyaggmKqCkH-KkTQtO0qyOtUmE6_tKnwkH4yzMEA-ZfMgY5M5rtCSVcDXNFBu95xRQ4VUhXdSXXFz_RxoStO0f0FbugnZZAb7KhsvRsqaeMFNyRQap0bMunWv91wlwIm3BBE82Pd0f-5Ox7ROz-4I_WlWA-kU2S-B6LpygZPXCdtlCdW0G7FXHRHz0UfmefMxWwrL8yh7896oZMu9nvhb7RDUiOFvCzV8CFfpRr-tN9KjVyqtlGjjoy2atTSQFAAhulEVAD-So7lS-BGjUoNWsjTTgNv6nfXYIgsdBrYkOUaDWbRnb0a_EQ9TRoM0LNuDSbofdlS5NEvp5biIQ1kBWKYmj8KRDv1uAdhkKYsCAJolWcwYijYJxg6ijkTjE20jw5RJX1JjdTyspeyU0pDMDJomkcIrGiBNgSLKTo3BBtp0ZkQBFJWuBY51J2oRR-dSdKiiNL3aHGAHn-ixVP69q4WDZT351Dk09PvQ_E_wkgoLOhtnzAk0TNjGF5QXlUYTlLUz2GIoavW4Wihs5HhKKbmM-FopX9VhqOd9v8jHLm06T_h2Eq5v4fDPzUCwWRRHoGZ1FIRgQ4avBeBJxS5SIcNVEE1lPdIh5MUf_sBdtHg2l48ocS4XqTS4q29CKTV_-xFLDUF9eEmbTH2IfvbPuRSHuXTKSokpwP98CBrM5POtv1NUH46entoioO0YVv8ble3jcnJKT4J2xLj03jnpcbvSYrfE7fQd6Gf7-KFfvN8feOSff8PnIwd0Q&build-label=apps-fileview.texmex_20250925.00_p0&imp-sid=CPz2-4HliJADFWHwcwQdPlMoJQ&is-cached-offline=false"
+Document-Policy: include-js-call-stacks-in-crash-reports
+Referrer-Policy: origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Set-Cookie: NID=525=fIchJV5zys5vZ6gaQZi9KKYlFCz-4L6vKahzrIlUYWjsVsINeSSoFeag_wU_5NWmV9mx_grLQtgmTVa6ocJ1X_jOmEe-7FtfnPW2f6iusxtZnIqRsQdom2XVLvh6o3s6QdD6cLrmFcwwZ74dHMTq9tRrL8lh6yABaoBiqIWGBDoDVRu4F4vzuB6_pWqruvrZ; expires=Sat, 04-Apr-2026 19:43:18 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+
+]
+[2025-10-04 06:35:01,537:ERROR:main:File is not a zip file]
+Traceback (most recent call last):
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/main.py", line 11, in <module>
+    data_ingestion.main()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/components/data_ingestion.py", line 32, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1385, in __init__
+    self._RealGetContents()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1452, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2025-10-04 06:36:19,662:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-10-04 06:36:19,667:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 06:36:19,669:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 06:36:19,670:INFO:common:created directory at: artifacts]
+[2025-10-04 06:36:19,670:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-04 06:36:20,666:INFO:data_ingestion:artifacts/data_ingestion/data.zip download: with following info: 
+ Content-Type: text/html; charset=utf-8
+X-Robots-Tag: noindex, nofollow, nosnippet
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Fri, 03 Oct 2025 19:44:44 GMT
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Content-Security-Policy: require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/docs-tt
+Reporting-Endpoints: default="/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/web-reports?bl=apps-fileview.texmex_20250925.00_p0&app=15&clss=1&context=eJwVyXtU1HUexvFp5vd9JLkNF3UAhREQmAhBz2KIIxeHm6uprJeBU0CoYCoYLYgSeEUUNcMtNs_mBWTQgOFO7UqI7SoIsoJEmxqKuyGXBAxzJUha2cc_Xuc5n_dn-iWrAhO9rMJULxsnjZleZlDqZZkqvazWTS_7SKOXTb2ml03z1Ms8vfSybB-9zO-EXhZBsZujZDteem1Ynk5re5_K36LlK_4rj6TL-8fkTVR3YEzeQOe3j8tL6bx2Ql5K-Usn5GdoeuKE3JoeHpuQD1N626_yveRu_VzuTb2Fz-VD1DH1Qn6b1HOm5B5kkjElV1Kf4RXFCM1sliscqeOFXHGbHv5BoRimzAMKRTadO6xQXKSifoWijK6_Kik6SDbqL5nQg2dLpAE6dkorfUwpfkul3ZTqGiBl0og-SHpGaRHBUhZ5rQiWfKkxO1hqJ82nwdJimnwcLCl-CpYCs5ZJ4ZRlXCYdIk3FMmkBJafopJ3Ukq6TblF9hk66QbVVOukrMq_TSTMo50uddIIsnEOkmXTLM1S6Q8ptoZKKjr4fKv2JIq6ESmtIOchO-b5h0hmK3Rwm7SBjarjUQG3bI6QuyrZZLh0nj2m_l3zo-NoC8QkdebdA5NGZvxWIYlKvLxQ-9JdnheI8rbYuEnFk71AknMnwRpGoo5JVRaKaVLYG4UFb7AxiF311zSDayK7JIDSUd90gTpHVfTZaP2oQMfRGbLEIJ9OtxcKGupKKRTft7SsWh2nbpgviA1pXc0G8TYrGi8KUGg99LprJy6lE-NKH0SUin9pyS0QXXR4pETep-1GZ6KVHQ2XiZxp93SjGKXqVUcTTns1GkUPWe43CnpaXGkUkjR8tF1P06ES5-JXiPCvEFrqRWCG-p_wXFaKYlGsqhZq6NlaKbkrfUSn20u2KIfGALncOiSYyxgyLOtpUMCxS6UnrsJigZwEj4jc6dXVEFNC3nz0W92giyhSyaFNYXzFFRLcp3qS1z00RRcbTZqim9jNm6KKCPjN8Tk2W5rhJGcnmOEr-l8yxjI4Pm-MkRQZaYAOpD1rAg5Y0W0BH7YmW6KLvzlmih8ouKFFLuaVKnKC8MiXyacakEvNo6C0rPKWGWitcowYfa1yjpiXWuEHGLGtUU9c7NugmxUYbmNJEuy1kHbZI6LbFTuq9b4sh6syYgbtkeWQGZtGu-zOxj1ZumoV1tCNpFtKpRq1CPTk5q-BNVokq2FFrhQqd1HdDhRE66m-Hj6i10A6dtNJgh3VUd8weDbToiT0CqGbcHvX0-jYH_I7eP-yAdIo66YB3qGrfbHxBdQdn4xJdr5-NDqpwnING-qVmDiapoH8Oimm1qyPWUWa6I7JJX-4I7agjQuiuoxN6qMXFCXfog5VOOEh7Ernk9qUT5tMk1FBMUyPQT41wstmmhrxejen0Y4caj-nfhrkYJL-SuYggE29nKOmqvzO6aOd7zsihQqqm79Oc8QN9UuiM0_RggQsGSBnoAhWVrXdBFcVfdEEipdW7IIu-_ZcL7pH_pAsCyTvWFQOfueIneu87V6S9FDsPGRSZPw_RdGWDG66TLsoNK2iXwh090e7oJ_Mcd8y28sBc-uacB25T5YAH_krbJQ1SycNSAy_yUWrgR_utNMilGhsN6sloq0EdDQb6Y4RORvnjz-RQvgQu1KzUoo3cVFp40oCrFsNkEaGFDYnVWpjTf_byR70tWgzSkx4txuiIbCny6MfTS_GYBvcEYIRaPw5AJ_W6BmKIXlkQCNCbbkGIoSCvIERQzNkgbKR9dIiq6AtqpraXvZSdUpuCkEmvzguGFS3QBWMxRecGI54WnQ1GAO0J0yGHepJ06KezyToUUcZuHQ7Qk091GKOv7-nQRHl_DEE-jX0Tgv8RRkNgQe96hSKZfjGG4gXlVYfiFEX9EIoYumodhjY6FxmGYmo9G4Z2-mdVGDpp_9_DkEtv_xyGeMr9LQx-aeEIIovycMykofvheEqRiyKwgSqolhLuPMROGlrTh6eUFNeHNFq8pQ8BtOoffYillsB-3KTNxn5kf92PXMqjfDpNheR-YADeZG1mUn5rfwuUdxtLKxX20oatCbucXeJTUlK9ErcmJaTznJ-WsDs5YXfcQp-Fvj6LF_rO9_GJS_H5P-qcFpw&build-label=apps-fileview.texmex_20250925.00_p0&imp-sid=COuDlavliJADFWHwcwQdPlMoJQ&is-cached-offline=false"
+Document-Policy: include-js-call-stacks-in-crash-reports
+Referrer-Policy: origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Set-Cookie: NID=525=iHEjdHC51bEUp_9SouFiKq05J8gTio2Y5GBF13cbq3txZuL9b5EIkFVwjOTIaDB98HOR2f1Pb-WnfY4gHkWGuNhnpmEMbrunp2ztZIGFlmVQUtvUu4dQ55t_-5fsgu08nbeXln4f3xWen_P8P_lGo9UawV5iGeOFFZgngvAmnDwzuBTlLsHFLpWaN5NighpSGg; expires=Sat, 04-Apr-2026 19:44:44 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+
+]
+[2025-10-04 06:36:20,667:ERROR:main:File is not a zip file]
+Traceback (most recent call last):
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/main.py", line 11, in <module>
+    data_ingestion.main()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/components/data_ingestion.py", line 32, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1385, in __init__
+    self._RealGetContents()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1452, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2025-10-04 06:37:12,538:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-10-04 06:37:12,543:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 06:37:12,544:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 06:37:12,544:INFO:common:created directory at: artifacts]
+[2025-10-04 06:37:12,545:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-04 06:37:12,545:INFO:data_ingestion:File already exists of size: ~ 48 KB]
+[2025-10-04 06:37:12,546:ERROR:main:File is not a zip file]
+Traceback (most recent call last):
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/main.py", line 11, in <module>
+    data_ingestion.main()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/components/data_ingestion.py", line 32, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1385, in __init__
+    self._RealGetContents()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1452, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2025-10-04 06:39:14,424:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-10-04 06:39:14,429:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 06:39:14,431:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 06:39:14,432:INFO:common:created directory at: artifacts]
+[2025-10-04 06:39:14,433:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-04 06:39:15,732:INFO:data_ingestion:artifacts/data_ingestion/data.zip download: with following info: 
+ Content-Type: text/html; charset=utf-8
+X-Robots-Tag: noindex, nofollow, nosnippet
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Fri, 03 Oct 2025 19:47:55 GMT
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Content-Security-Policy: require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/docs-tt
+Reporting-Endpoints: default="/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/web-reports?bl=apps-fileview.texmex_20250925.00_p0&app=15&clss=1&context=eJwVyXlc1HUex_Fp5vd9i3INh8qhMDIITISMPhYDHIFxuMyTTR14tEAeYCoYLYgSiAeiqBlusfkoDxDQgAG5ajdCbVdBkBUk2rRQ3A05CjBcV4KklX37x_Px-Xxenxk1NoVmRlmVuVE2ThoLo6xEaZRlOhhldR5G2fsao2zqZaNsmrdR5u1jlOVojTL_E0ZZJMVtiZbtfOHlYXk6vd77RP4GLV_xX3kUXd4_Jm-i-gNj8kY6v2NcXk7ndRPycipYOiE_QzMSJ-S29PDYhHyY0tt-lWeTp-0zuS_1Fj2TD1HH1HP5HVLNnZJ7kVnGlFxJfSUvKUZoVrNc4UIdz-WKO_Tw9wrFMGUeUChy6NxhheIiFfcrFBV0Y7qk6CDZaKBkRg-eLpEG6NgpnfQBpfgvlfZQqnuQlEkjxhDpKaVF6qUs8lmhl_zoSo5eaifNR3opgCYf6SXFz3opOGuZFEFZpmXSIdJULZMWUnKKQdpFLekG6TY1ZBikm1RXbZC-JMt6gzSTcj83SCfIyi1UmkW3vcOku6TcHiY50NF3wqQ_UeTVMGktKQfZqcAvXDpDcVvCpZ1kSo2QGqltR6TURTl2y6Xj5DXtNUlLx18vFB_SkbcKRT6d-WuhKCXV-iKhpY-fFonztMa2WMSTk3OxcKOSV4tFPZWtLhY15GBfIrxoq2OJ2E1fXi8RbeTYVCI0ZHOfO60fLRGx9GpcqYgg822lwo66kkpFN2X3lYrDtH3zBfEurau9IP5AiisXhTldOfSpaCYf1zLhR-_FlIkCassrE110eaRM3KLunypEL42-YhLjFLPaJDbS3i0mkUu22SbhRMvLTSKKxo9Wiin66USl-JXivavEVrqZWCW-p4LnVaKUlGsvCRV1bbokuil95yWRTXeqhsQDutw5JJrIFDss6mlz4bBIpcetw2KCngaNiN_o1LURUUjffPJI3KOJaHPIYsxhe9Uckd3mWEUxz8wRR6bTFqih9jMW6KLCPgt8Sk3WlrhFGcmWOEqBX1hiGR0ftsRJigq2wgZSHbSCFy1ptoKB2hOt0UXfnrNGD1VcUKKO8sqVOEH5FUoU0MxJJebT0Bs2eEKNdTa4To1aW1yntiW2uE2mLFvUUNebdugmxSY7mNNEuz1kHfZI6LbHLuq9b48h6syYie_I-shMzKbd92dhH63cPBvraGfSbKRTrcoBDeTq5gBfskl0gCO1Vjmgk_puOmCEjgY64n1qLXJEJ60sccQ6qj_mhEZa_NgJQVQ77oQGemW7M35H7xx2RjpFn3TGm1S9bw4-o_qDc_AF3WiYgw6qcpmLK_RL7VxMUmH_XJTSGncXrKPMdBfk0KpKF-hGXRBK37m4ooda1K64S--udMVB2pvISR6fu2IBTUIFxTQVgv1ViKDp21WQN6gwg37sUOER_atkHgbJv2weIsnM1w1Kuhbohi7a9bYbcqmIauj7NDf8QB8WueE0PVioxgApg9VwoIr1alTTxotqJFJagxpZ9M0_1bhHgZNqBJNvnDsGPnHHz_T2t-5IeyFuPjIoqmA-YujqBg_cIEO0B1bQboUnemI80U-WuZ4IqPREEM2x8cI8-vqcF-7QpQEv_IV2SBqkkpe1Bj6kVWrgT_ttNMijWjsNGshkr0E9DQYHYoRORgfiz-RcuQRqalbq0EYeDjp404C7DsNkFamDHYk1OljSv7P5o94WHQbpcY8OY3REthT59OPppXhEg3uDMEKtHwShk3rdgzFELy0MBmiVRwhiKcQnBJEUezYEm2gfHaJq-oyaqe1FL2en1KYQZNL0-XrY0EKDHgEUk6fHRlp8Vo8g2htuQC71JBnQT2eTDSimjD0GHKDHHxkwRl_dM6CJ8v8YigIa-zoU_yOMhsKK3vIJQzL9YgrDc8qvCcMpiv4hDLF0zTYcbXQuKhyl1Ho2HO30j-pwdNL-v4Ujjzb9JxxbKe-3cPinRSCErCojMIuG7kfgCUUtjsQGqqI6Srz7EOk0tLYPTygpvg9pFLC1D0G0-u99iKOW4H7coi2mfuR81Y88yqcCOk1F5HlgAL5ka2E23Lm_BcrOZ4fH5U7Shm0Ju93UG1NSUn0StyUlpPNckJawJzlhT_wi7SI_bcAivwVabXyK9v9i7hBb&build-label=apps-fileview.texmex_20250925.00_p0&imp-sid=CPyTl4bmiJADFWHwcwQdPlMoJQ&is-cached-offline=false"
+Document-Policy: include-js-call-stacks-in-crash-reports
+Referrer-Policy: origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Set-Cookie: NID=525=Lb8DwCLFsrANhEChA4HuyKcLo9SUZEmr2G5Cz5affKzfuulnFXtakTHWtJBepL12B9oo_nRlnoWLQcGqh0tWldcT7sskUtbQ9_wRiTZZ_0eK1GYTbw2TyK_iAxkP4vU7wNhZyQQ4SsCbfochu03-qBIYaO6cCTe0EknhdkUdR00TmHTmwjN7DdagbwHwmtN9gA; expires=Sat, 04-Apr-2026 19:47:55 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+
+]
+[2025-10-04 06:39:15,733:ERROR:main:File is not a zip file]
+Traceback (most recent call last):
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/main.py", line 11, in <module>
+    data_ingestion.main()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/components/data_ingestion.py", line 32, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1385, in __init__
+    self._RealGetContents()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1452, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2025-10-04 06:39:48,433:INFO:stage_01_data_inestion:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-10-04 06:39:48,438:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 06:39:48,440:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 06:39:48,441:INFO:common:created directory at: artifacts]
+[2025-10-04 06:39:48,441:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-04 06:39:48,442:INFO:data_ingestion:File already exists of size: ~ 105 KB]
+[2025-10-04 06:39:48,443:ERROR:stage_01_data_inestion:File is not a zip file]
+Traceback (most recent call last):
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/src/cnnClassifier/pipeline/stage_01_data_inestion.py", line 25, in <module>
+    obj.main()
+    ~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/src/cnnClassifier/pipeline/stage_01_data_inestion.py", line 17, in main
+    data_ingestion.extract_zip_file()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/components/data_ingestion.py", line 32, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1385, in __init__
+    self._RealGetContents()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1452, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2025-10-04 06:46:27,492:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-10-04 06:46:27,497:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 06:46:27,499:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 06:46:27,500:INFO:common:created directory at: artifacts]
+[2025-10-04 06:46:27,500:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-04 06:46:28,419:INFO:data_ingestion:artifacts/data_ingestion/data.zip download: with following info: 
+ Content-Type: text/html; charset=utf-8
+X-Robots-Tag: noindex, nofollow, nosnippet
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Fri, 03 Oct 2025 19:55:48 GMT
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Content-Security-Policy: require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/docs-tt
+Reporting-Endpoints: default="/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/web-reports?bl=apps-fileview.texmex_20250925.00_p0&app=15&clss=1&context=eJwVyHtU1HUexvFp5vd9RBEYLioXgZEBZCIUPYshjlwcGDCvbOrAaYG8gKlgtCBKCF4QQ13DLcqzeQEZNGBAbrUrobarIMgKEpUmip2Qi3IJczVIPLKPf7zO5_O8p1ywLjAzyCrMDbJR0kw1yIxKgyzD3iCr8TTIPtYYZBOvG2STvA0ybx-DLNvXIPM_apBFUOymKNn2V14flKfR291P5O_Q0mX_k0fSxb3P5A1Uu--ZvJ7ObBuVl9IZ7Zi8lPIXj8lP0pSEMbkNPTg8Jh-ktJY_5Fk02-a5fC51Fz6XD1DbxEv5LVI5T8i9yCx9Qq6kHuNriiGa3ihXuFDbS7niFj34s0IxSBn7FIpsOn1QoThHRb0KRRldmywp2kg2EiCZ0f2ni6Q-OnxcK31Cyf6LpV2U4h4oZdCQIVh6SqkRIdJu8lkWIvnRpewQqZU0n4dIC2l8OERS_BoiBe1eIoXTbtMS6QBpKpZI8ygpWSftoKY0nXST6tJ10nWqqdRJ35BFrU6aRjlf66SjZOkWKk2nm95h0m1Sbg2T7OnQB2HS3ynicpi0mpT97JTvp5dOUuwmvbSdTCnhUj21bIuQOijbdql0hLwmvSX50pG3C8SnlPlegcihk_8qEMWkWlsofOkfTwvFGVplUyTiyNGpSLiR8c0iUUslK4tEFdnbGYUXbXYwip30zVWjaCGHBqPQkPU9_rR2xChi6M3YYhFO5luKhS11JBaLTsrqKRYHaevGs-JDWlN9VvyFFJfOCXO6dOBL0Ug-riXCj_4WXSLyqSW3RHTQxaEScYM6H5WJbno0UCZ-o5E3TGKUoleaxHrK3GQSOWSTZRKOtLTUJCJp9FC5mKBHR8vFHxTnXSE20_WECnGH8l9WiGJSrj4vVNSx4bzopLTt50UW3aoYEPfpYvuAaCBTzKCopY0FgyKFHjcPijF6GjgkXtDxK0OigL7_YljcpbEoc8iizWFz2RwRneZYQdHPzRFLphNTUUWtJ6eigwp6puJLarCywA1KT7LAIQq4YIEldGTQAscoMsgS60i13xJetKjREjpqTbBCB_142gpdVHZWiRrKLVXiKOWVKZFP08aV8KCBd6zxhOprrHGV6n1tcJVaFtngJpl226CKOt61RScpNtjCnMZa7SBrs0N8px12UPc9OwxQe_o0_ERWH03DDNp5bzr20PKNM7CGtifOQBpVq-xRR65u9phL1gn2cKDmCnu0U891ewzRoQAHfEzNhQ5op-VGB6yh2sOOqKcFjx0RSNWjjqijN7Y64U_0wUEnpFHUMSe8S5V7ZuIrqt0_ExfoWt1MtFGFizMu0e_Vzhingl5nFNMqdxesoYw0F2TTinIXaEdcEEo_ubiii5rUrrhNHy53xX7KTOAlz69dMYfGoYJikgpB_iqE0-StKsjrVJhCD9tUGKafjbPQT_4lsxBBZnPdoKQrAW7ooB3vuyGHCqmK7qS64Rf6tNANJ-j-PDX6SBmkhj2VrVWjktafUyOBUuvU2E3f_6DGXQoYVyOI5sa6o-8Ld_xK7__ojtRXYj2QTpH5Hoimy-s8cY10UZ5YRjsVs9EVPRu9ZJEzGzOtvTCLvjvthVt0vs8L_6RtkgYp5GWlgQ_5KjXwp73WGuRSta0GdWSy06CW-oMCMETHogLwGTmVL4KaGpVatJCnvRbe1OeuxSBZRmhhS1artJhBd7K0-Jm6m7Top8ddWjyjCy-0-Ei2GHn08MRiDFN_ZiCGqPmTQLRTt3sQBui1eUEArfAMRgwF-wQjgmJOBWMD7aEDVElfUSO1vOql7JTSEIwMmuwRAmuapwvBQorODcF6WnAqBIGUqdchh7oSdeilU0k6FFH6Lh320ePPdXhG397VoYHy_hqKfJr4LhSTOkKBkVBY0ns-YUii301heEl5VWE4TlG_hCGGrtjo0UKnI_UopuZTerTSfyv1aKe9_9Yjl_qH9djwmx6bKfeFHv6p4Qgmy_JwTKeBe-F4QpELIrCOKqiG4m8_wA4aWN2DJ5QY14NUWri5B4G08j89iKWmoF7coE2mXmR_24tcyqN8OkGF5LyvDx5kY27W8MPeJigfFj2UHKV1W-J3uqnXJyen-CRsSYxP45yTGr8rKX5X3Hzf-X6-C-f7zfH1jUv2_T-hiRVW&build-label=apps-fileview.texmex_20250925.00_p0&imp-sid=CP2hrefniJADFWHwcwQdPlMoJQ&is-cached-offline=false"
+Document-Policy: include-js-call-stacks-in-crash-reports
+Referrer-Policy: origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Set-Cookie: NID=525=DCmMpMy_CWx4V1_4fRtC3-75JTZ3977mVXKroCioJTLGethbiQw46k4zIF2j7GhmfoegQvkK4SRbNyIwd-bEg6G4wJCL37_S_qiHU334WWmw7VCHR5lSq2asNXRk5RJkxcmDUb4ySuDcBZVqmerM_yeULcm5F0L2kd6EFr2ZMO1KZVb6RuRyNwI_yptHfT3sPg; expires=Sat, 04-Apr-2026 19:55:47 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+
+]
+[2025-10-04 06:46:28,419:ERROR:main:File is not a zip file]
+Traceback (most recent call last):
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/main.py", line 11, in <module>
+    data_ingestion.main()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/components/data_ingestion.py", line 32, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1385, in __init__
+    self._RealGetContents()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1452, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2025-10-04 06:48:24,968:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-10-04 06:48:24,972:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 06:48:24,974:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 06:48:24,975:INFO:common:created directory at: artifacts]
+[2025-10-04 06:48:24,975:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-04 06:48:26,464:INFO:data_ingestion:artifacts/data_ingestion/data.zip download: with following info: 
+ Content-Type: text/html; charset=utf-8
+X-Robots-Tag: noindex, nofollow, nosnippet
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Fri, 03 Oct 2025 19:57:56 GMT
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Content-Security-Policy: require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/docs-tt
+Reporting-Endpoints: default="/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/web-reports?bl=apps-fileview.texmex_20250925.00_p0&app=15&clss=1&context=eJwVyXlc0_cdx_GY_L5vUQTCoQYUiASRFNHoY1rEyGEg4DxZ1cCjA-oB1gNrB6KUwwOxqLW4ltXH6gEStEiIoLSbFLWdgiATpHQeRXErclQOsU6FitO9_eP5-Hw-r8_oO44FNiaZ1dYkGyTtGJPMrDTJ0lUm2Tkfk-xTrUn2-i2TbKSfSebnb5Jl60yygIMmWSTFrY2WbX7jrV55Kr3T_kT-Li1Y-F95FF3Y-UxeQ5W7nsmr6cTGQflpOqEfkp-m_HlD8qM0OnFI7kQP9g_Jeym14Td5Fk1xeiGfTu2FL-Q91PT6lfwWqd1fy33JJu21XEkd5hGKPhpXK1d4UNMrueIWPfiDQtFL6bsUimw6vlehOEVFnQpFKV0dJSmaSDYQKNnQ_adzpS7af1gvfUYny_SSlbYEzJO2U7J3kJROfaYQ6SmlRIZKGeS_MFSaRRezQ6VG0n4RKs2h4f5QSfEoVArOmC9FUIZlvrSHtNb50gxK2mKQtlJdqkG6QVVpBukanSs3SN-SXaVBGks53xikg2TvFSaNoxt-4dJtUm4Il1S078Nw6c8UeSlcWkbKbnbKn2WUjlLcWqO0mSzJEVI1NWyMlFoo23mBdIB8R_5e0tGBdwrE55T5foHIoaN_LxDFpF5RKHT016eF4gQtdSoS8eQ2oUh4kfntIlFJJUuKRAWpXMzCl9a5msU2-vaKWTSQa41ZaMnxHndaMWAWsfR2XLGIINv1xcKZWjYVi1bK6igWe2nDmpPiI1p-9qT4IykunhK2dHHPV6KW_D1LxCz6JKZE5FNDbolooQt9JeI6tT4sFe30sKdU_EoDUy1ikGKWWMQqylxrETnklGURbrTgtEVE0eC-MvGaHh4sE79RvJ9VrKNriVbxE-W_sopiUi47I9TUsvqMaKXUzWdEFt2y9oj7dKG5R9SQJbZXVNKagl6RTI_re8UQPQ3qEy_p8OU-UUA_ftkv7tJQtC1kMbZwumSLyFZbLKaYF7aII8uRMaigxqNj0EIFHWPwFdU42OE6pSXZYR8FnrfDfDrQa4dDFBVsj5Wk3m0PX5pbaw8DNSY6oIVuHndAG5WeVOIc5Z5W4iDllSqRT2OHlZhMPe864glVn3PEFarWOeEKNcx1wg2yZDihglrec0YrKVY7w5aGGl0ga3JBQqsLtlL7PRf0UHPaWNwhh4_HYjxtuzcOO2jRmvFYTps3jUcqnVWrUEWeXipMJ8dEFVyp3qpCM3VcU6GP9gW64lOqL3RFMy0yu2I5Ve53QzXNfuyGIDo76IYqmrphAn5HH-6dgFSKPjQB71H5jon4mip3T8R5ulo1EU1k9XDHRXp-1h3DVNDpjmJa6u2B5ZSe6oFsWlzmAf2AB8Lojocn2qhO44nb9NEiT-ymzERO8vnGE9NoGGooRqoRHKBGBI3aoIa8So3R9EuTGv30b_MkdFNAySREks10LyjpcqAXWmjrB17IoUKqoJ9SvPAzfV7ohSN0f4YGXaQM1kBFpSs0KKea9Rpcp1WnNEiklCoNMujHf2lwlwKHNQim6XHe6PrSG4_og5veSHkjbjLSKCp_MmLo0kofXCVDtA8W0jbFFLTFTEEn2eVMwURHX0yiH4774had6fLF32ijpEUy-Tpo4U86pRYBtNNRi1w666xFFVlctKik7uBA9NGh6ED8hSaUzYWGapV6NJCPSg8_6vLWo5fsI_VwJoeleoyn_2TxR-11enTT8zY9hun8Sz0-ls1DHv1yZB76qTszCH1U_1kQmqndOxg9NGJGMECLfUIQSyH-IYik2GMhWE07aA-V09dUSw1v-ml2Sq4JQTqNmhwKR5phCMUciskNxSqafSwUQZRpNCCH2jYZ0EnHkgwoorTtBuyix18Y8Iy-u2tADeX9KQz59OyHMPyPMBAGe3rfPxxJ9NwSjleUVxGOwxT9czhi6bKTEQ10PMqIYqo_ZkQj_bPciGba-b0RudTdb8TqX41YR7kvjfh-agRqKSAlAiFkXxaBcdRzLwJPKGp2JFaSlc5R3qNIHKbE2w-QSj3LOvCENsV3IIXmrOtAEC35RwfiqC64E9dpraUT2d91IpfyKJ-OUCG57-rCZHIaY1Nzc2cdlLm11Q9GuEkr1yds89Ks2rIl2T9x_aaEVJ7TUhK2JyVsj5-pmzlLN2fmrGk6XfwW3f8BxF4i6A&build-label=apps-fileview.texmex_20250925.00_p0&imp-sid=CMbNzqToiJADFWHwcwQdPlMoJQ&is-cached-offline=false"
+Document-Policy: include-js-call-stacks-in-crash-reports
+Referrer-Policy: origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Set-Cookie: NID=525=bcI9cfQZV9F2cgqv1oQugLgSH-BIzMw4X5oWFqUmAqusqkYvWrzsqvBp-dyOe_jHpV7cM_orymAu_Qm6ZTWV5yr4SDNRJaSjEugurd4NwZAJQWTPid2278iHCzJ7onUWcgg7cW53BgXURgJci_Wzlbdn-M1os8IY2oee6N1VbfKlzPrY3in3lRjNZhBoT8jf; expires=Sat, 04-Apr-2026 19:57:56 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+
+]
+[2025-10-04 06:48:26,465:ERROR:main:File is not a zip file]
+Traceback (most recent call last):
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/main.py", line 11, in <module>
+    data_ingestion.main()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/components/data_ingestion.py", line 32, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1385, in __init__
+    self._RealGetContents()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1452, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2025-10-04 06:49:06,427:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-10-04 06:49:06,432:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 06:49:06,434:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 06:49:06,435:INFO:common:created directory at: artifacts]
+[2025-10-04 06:49:06,435:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-04 06:49:07,174:INFO:data_ingestion:artifacts/data_ingestion/data.zip download: with following info: 
+ Content-Type: text/html; charset=utf-8
+X-Robots-Tag: noindex, nofollow, nosnippet
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Fri, 03 Oct 2025 19:58:41 GMT
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Content-Security-Policy: require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/docs-tt
+Reporting-Endpoints: default="/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/web-reports?bl=apps-fileview.texmex_20250925.00_p0&app=15&clss=1&context=eJwVyXlc1HUex_Fx5vd9S3INh8ohMHLJROjoYzHEkcOBAVdTyWPg0QJ5gKlgtCBKIB6Ioq7hFuVj8wAZNGBArmoj1HYVBFkholULxTbkKI4wV5LExX37x_Px-Xxen2mXbArNDLJKc4NMbWGQGZUGWaaDQVbrbZC9pzbInr9skE31Nch8_QyyHI1BFnDcIIukuM3Rsh0vvDwkT6c1PY_kb9Cy5f-VR9GlfWPyRqrbPyZvoHPbn8jL6Jx2XF5GBUvG5adpWuK43JYeHB2XD1F66-_ybJpj-1Q-j3qKnsoHqf35pPw2qVyey33ILOO5XEm9ximKYZrRJFe4UvukXHGbHryuUAxR5n6FIofOHlIoLlBxn0JRTtdfkhTtJBsNlMzo_uPFUj8dPamV3qeUgCXSbkr1DJIyadgQIj2mtMhQKYv8lodK_nQ5J1RqI_VHodIimhgJlRS_hErBWUulCMoyLZUOkrpyqTSfklN00k5qTtdJX1N9hk66QbVVOulLsqzTSdMp9zOddJys3MOkGfS1b7h0h5TbwiUHOvJOuPRXirwSLq0m5QA7FfjrpdMUt1kv7SBTaoTUQK3bI6VOyrFbJh0jn6l_lDR0bE2h-IAOv1Uo8un03wtFCanWFQkN_e1xkThHq2yLRTw5ORcLdzK-WizqqHRlsagmB3uj8KEtjkaxi768ZhSt5NhoFGqyuced1o0aRSy9GlciIsh8a4mwo86kEtFF2b0l4hBt23RevEtra86LP5Hi8gVhTpcPfiKayM-tVPjTX2JKRQG15pWKTro0XCpuUtfP5aKHRl8xiSe0ablJbKeYlSaxgfZsNolcss02CSdaVmYSUfTkSIV4Tj8frxC_U7xvpdhCNxIrxfdUMFkpSki5-qJQUefGi6KL0ndcFNl0u3JQ3KdLHYOikUyxQ6KONhUOiVR62DIkxulx0LB4RievDotC-vbjEXGXxqPNIYsxh-0Vc0R2meM1WvPUHNFkOmWBamo7bYFOKuy1wCfUaG2Jm5SRbIkjFPiFJZbSsSFLnKCoYCusJ9UBK_jQ4iYr6Kgt0RqddOusNbqp_LwStZRXpsRxyi9XooCmTyjhRYNv2OARNdTa4Bo1aGxxjRoX2-IGmbJsUU2db9qhixQb7WBO4232kLXbI6HLHjup5549BqkjYzq-I-vD0zGTdt2bgb20YtNMrKUdSTORTjUqB9STm7sD5pFNogMcqaXSAR3Ue8MBw3Qk0BHvUUuRIzpohdERa6nuqBMaaOFDJwRRzRMn1NMr25zxB3rnkDPSKfqEM96kqr2z8CnVHZiFL-h6_Sy0U6WrCy7TbzUumKDCPheU0CpPV6ylzHRX5JChwhXaUVeE0XeubuimZg833KF3V7jhAO1J5CTvz9wwlyaggmKqCsEBKkSQ3TYV5PUqTKOf2lUYoR-MszFAAaWzEUlm89yhpKuB7uiknW-7I5eKqJq-T3PHj_RBkTtOUcSkO1bR_fke6CdlsAccqHydB6powwUPJFJavQey6Nt_e-AuBU54IJjmxXmi_2NP_EJv3_JE2gtxXsigqAIvxNCV9d64TrpobyynXYo56I6Zgz6yzJ2DWTY-mE3fnPXBbbrY74PPabukRir5WKvhRxqlGgG0z0aNPKqxU6OeTPZq1NFAcCCG6UR0ID4k54rF8KAmpRat5O2ghS_1e2oxRFaRWtiR9SotZtJ_svmjnmYtBuhhtxZjVPtMi8OyJcinn04twQgN7AnCMLW8H4QO6vEMxiBNmR8M0GveIYilEL8QRFLsmRBspL10kKroU2qi1he9jJ1SG0OQSS95hcKG5utCsYhi8kKxgRaeCUUQ7dHrkEvdSTr00ZlkHYopY7cO--nhRzqM0Vd3dWik_D-HoYDGvgnD_wijYbCit_zCkUy_mcIxSfnV4ThJ0T-GI5au2urRSmej9CihljN6tNG_qvTooH3_0COP-kf02PirHlso75keAWkRCCGrigjMoMF7EXhEUQsjsZ4qqZYS7jzAThpc3YtHlBTfizRatKUXQbTyn72Io-bgPtykzaY-5HzVhzzKpwI6RUXksr8fXmRrYfbrrX3NUHZ8-EP1FCdp_daEXe4eG1JSUv0StyYlpPOcm5awOzlhd_wCzQJ_zaIF_nM1mvgUzf8BxEsWSw&build-label=apps-fileview.texmex_20250925.00_p0&imp-sid=CJuWg7roiJADFWHwcwQdPlMoJQ&is-cached-offline=false"
+Document-Policy: include-js-call-stacks-in-crash-reports
+Referrer-Policy: origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Set-Cookie: NID=525=jcxFJFJuNU8TRs2hDFblKmWtCN5N_SHp_bilGSCmU9fypZtraSc_JzuaWLJs_BFJJ_v5b-czPH9PbvNy3Y6vzla9xUFExPhRYhaYA4nCHHHRuAbYFk05OYf_AoLORFKizeMl6jVvuQpMY8KIsDPHIRjBlnsjoe-L9WF8bl-aFLV6nALAZcQx3dtGVK_2QafcYw; expires=Sat, 04-Apr-2026 19:58:41 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+
+]
+[2025-10-04 06:49:07,176:ERROR:main:File is not a zip file]
+Traceback (most recent call last):
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/main.py", line 11, in <module>
+    data_ingestion.main()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/components/data_ingestion.py", line 32, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1385, in __init__
+    self._RealGetContents()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1452, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2025-10-04 06:50:39,562:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-10-04 06:50:39,566:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 06:50:39,568:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 06:50:39,568:INFO:common:created directory at: artifacts]
+[2025-10-04 06:50:39,569:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-04 06:50:40,883:INFO:data_ingestion:artifacts/data_ingestion/data.zip download: with following info: 
+ Content-Type: text/html; charset=utf-8
+X-Robots-Tag: noindex, nofollow, nosnippet
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Fri, 03 Oct 2025 20:00:23 GMT
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Content-Security-Policy: require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/docs-tt
+Reporting-Endpoints: default="/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/web-reports?bl=apps-fileview.texmex_20250925.00_p0&app=15&clss=1&context=eJwVyXlc1HUex_Fx5vd9i3INh3IJjAwgE6LoIwpx5HBgwDzJY-DRAnmAq4LRgiiheCCGuoabbD42FRDQgAG5bDdEbVdBkBUi2rBQ3EKO4gjXNEl8yL794_n4fD6vz_RGqwITg6zS1CDTmBlkxUqDLMPeIKv1NMg-0hhkk68ZZFO9DTJvH4Msy9cg8z9hkEVQ7JYo2c5XXhuWp9Ha3sfyd2jZ8l_lkXT1wFN5I9UdfCpvoPM7nsnL6Lx2XF5GeUvG5WdpesK43JoeHhuXD1Na6-_yTJpj_Vw-n3oLn8uHqH3ypbyLVM6Tci8ySZ-UK6mveIpihGY2yRUu1P5Sruiih28rFMOUcVChyKL8IwrFRSrqVyjK6dY0SdFOsrEAyYQePFksDdCx01rpY0r2XyLtoRT3QCmDRgzB0hNKjQiR9pLP8hDJj65lhUhtpPkkRFpEE6MhkuKXEClo71IpnPYal0qHSVO5VFpASck6aRc1p-mkr6g-XSfdptoqnXSFzOt00gzK_lwnnSALt1BpJn3lHSbdJeX2MMmejr4fJv2FIq6HSWtIOchOeX566SzFbtFLO8mYEi41UOuOCKmTsmyWScfJa-pbki8dX1sgTtHZfxSIElKtLxS-9LcnheI8rbYuEnHk6FQk3Kj4zSJRR6WrikQ12dsWCy_a6lAsdtOVm8WilRwai4WGrO5zp_VjxSKG3owtEeFkuq1E2FBnYonopsy-EnGEtm--ID6gdTUXxB9Ice2iMKVrhz8TTeTjWir86M_RpSKPWnNKRSddHSkVd6j753LRS78OlYsJGptrFM8oepVRbKR9W4wim6wzjcKRlpUZRSQ9O1ohJunnExXid4rzrhRb6XZCpfie8l5WihJSrrkkVNS56ZLoprSdl0QmdVUOiQd0tWNINJIxZljU0eaCYZFCj1qGxTg9CRwRL-j0jRFRQN98Oiru0XiUKWTRprC-boqIblOspLXPTRFFxjNmqKa2s2bopII-M3xGjZbmuEPpSeY4SgFfmGMpHR82x0mKDLLABlIdsoAXLW6ygI7aEizRSd_mW6KHyi8oUUs5ZUqcoNxyJfJoxoQSHjT0jhUeU0OtFW5Sg681blLjYmvcJuNea1RT57s26CbFJhuY0nibLWTttojvtsUu6r1viyHqSJ-B78jywxmwo933Z2I_vQU7vE0rNtthHe1MtEMa1ajsUU-ubvaYT1YJ9nCglkp7dFDfbXuM0NEAB3xELYUO6KAVxQ5YR3XHHNFAcx854nWqeeaIepq73Qmv0_tHnJBGUSed8C5V7Z-Fy1R3aBa-oFv1s9BOlS7OuEa_1Thjggr6nVFCq91dsI4y0lyQRSsrXKAdc0Eofefiih5qVrviLn2wwhWHaF8CJ3l-7op5NAEVFFNVCPJXIZymbVdBXq_CdPqpXYVR-m_xbAySf-lsRJDJfDco6UaAGzpp13tuyKZCqqbvU93wI50qdMMZerBAjQFSBqlhT-Xr1aiiK9vUuEEbL6qRQKn1auylb_6jxj0KmFAjiObHumPgU3f8Qu99647UV2I9kE6ReR6IpusbPHGLdFGeWE67FXPQEz0H_WSePQezrLwwm77O90IXXRrwwt9ph6RBCnlZauBDvkoN_OmAlQY5VGOjQT0ZbTWoo8GgAIzQyagA_JWcKhZDTU1KLVrJ014Lbxpw12KYLCK0sCHL1VrY0Q-Z_FFvsxaD9KhHi6dU-0KLD2VLkEs_nVmCURrcF4gRavk4EB3U6x6EIZqyIAiglZ7BiKFgn2BEUMy5YGyi_XSYqugyNVHrq17GTimNwcigaR4hsKIFuhAsouicEGykN86FIJD26XXIpp5EHfrpXJIORZS-R4eD9OgTHZ7Sl_d0aKTcP4Uijya_DsXUzlBgLBQW9EefMCTRb8YwvKTc6jCcpqgfwxBDN6z1aKX8SD1KqOWcHm307yo9OujAP_XIoYFRPTb9T4-tlPNCD__UcASTRUU4ZtLQ_XA8psg3IrCBKqmWVv8QAQPF332IXTS0pg-PKTGuD6m0aGsfAmnVv_oQS81B_bhDW4z9yPqyHzmUS3l0hgrJ-eAAPMjazORu14FmKAsvn8qf4iht2Ba_2029MTk5xSdhW2J8Gs95qfF7kuL3xC30Xejnu2ih3zxf37hk3_8D96MXiA&build-label=apps-fileview.texmex_20250925.00_p0&imp-sid=CIi30eroiJADFWHwcwQdPlMoJQ&is-cached-offline=false"
+Document-Policy: include-js-call-stacks-in-crash-reports
+Referrer-Policy: origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Set-Cookie: NID=525=LTZTyCbgFd1n8_YA2qsxmCUnLFos5rYsTwKLSS2MoMUogNXTViOnXoVhDNcwmQpvZ_p8BQ3ViE3YlanZCUe-BhUx5pMJi0ppdCwSobcCGiOZyNcUqclq1PyBlZSB-xwJG5_PsuBT-a6GzQWcdNHq7VUkKNrmqQ-lYgsE46Fjs4UsYxL-WaVu3fzLnYDnM9uP; expires=Sat, 04-Apr-2026 20:00:22 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+
+]
+[2025-10-04 06:50:40,884:ERROR:main:File is not a zip file]
+Traceback (most recent call last):
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/main.py", line 11, in <module>
+    data_ingestion.main()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/components/data_ingestion.py", line 32, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1385, in __init__
+    self._RealGetContents()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1452, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2025-10-04 06:53:09,908:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-10-04 06:53:09,913:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 06:53:09,915:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 06:53:09,916:INFO:common:created directory at: artifacts]
+[2025-10-04 06:53:09,916:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-04 06:53:10,727:INFO:data_ingestion:artifacts/data_ingestion/data.zip download: with following info: 
+ Content-Type: text/html; charset=utf-8
+X-Robots-Tag: noindex, nofollow, nosnippet
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Fri, 03 Oct 2025 20:03:06 GMT
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Content-Security-Policy: require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/docs-tt
+Reporting-Endpoints: default="/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/web-reports?bl=apps-fileview.texmex_20250925.00_p0&app=15&clss=1&context=eJwVyHdY1PcBx_HL3e_7cbCOA5ShcHKsCyKnT0gQT4YnB9ZJHQdPCsQB1hlTECXgRAxqDDah-jQOkEMDHJvYhqCmVRCkQghpHDjyBBkJI1irEcViP_7x-uP9nnjDPn-8SVZuZZJprU0ys9Iky3A2yWp8TLJPtCbZqzdNsnH-Jpl_gEmWpTPJgo-aZNGUsC5WtvW1NwfkabS867H8XVqw8L_yGLq496m8gWr3PZXX09lNz-QldFY_Ii-hvLkj8lM0MXlErqKHh0fkA5TW8ly-m3xVL-SB1FXwQt5Pba_G5DdJPfWV3I_Gp7-SK6nb_IZikCY1yhXu1DYmV9ykh79XKAYoY59CkUVnDioU56mwR6EopWsTJEUbyYZDpPH04MkcqZcOn9BLn9K24LnSTkrxCpUyaNAULj2h1OgIKZMCFkZIQXQpK0JqJe3xCGk2jQ5FSIpfI6SwzHlSFGVa5kkHSFs-T5pJW7YZpO3UlGaQvqW6dIN0nWoqDdLXZFNrkJwo-4JBOkq2nvOlSfStf6R0i5QbIyVnOvRBpPRnir4cKS0jZR8_5QUZpVOUsM4obSVLSpRUTy2boqUOynJYIB0hv3G_k3R0ZHm--IxO_T1fFJF6ZYHQ0V-fFIiztFRVKBLJ1a1QeJL5nUJRS8VLCkUVOTuahR-tdzGLHfT1VbNoIZcGs9BS7jWzOEH29_ho5bBZxNM7CUUiiqw2FAkH6thcJDppd3eROEgb154TH9KK6nPiD6S4dF5Y0aUDX4hGCvAoFkH0cVyxyKOWnGLRQRcHi8UN6vylVHTR8HSLeEZxSyxiNe1aZxHZpNptEa60oMQiYujZoTLxin45WiaeU6J_uVhP15PLxR3KGysXRaRcViHU1LGmQnRS2tYKsZtulveLB3SxvV80kCV-QNTS2vwBkUKPmgfECD0JHRQv6cSVQZFP338-JO7SSKwVZHFWUF22QnSnFRbT8hdWiCXLSWtUUespa3RQfrc1vqAGOxvcoPQtNjhEIV_ZYB4dGbDBMYoJs8UqUu-3hR_NabSFgVqT7dBBP5yxw30qPadEDeWUKHGUckuVyCOnUSW8qf9dezym-hp7XKV6nQpXqWGOCtfJkqlCFXW854BOUqxxgBWNtDpC1uaIpE5HbKeue47oJ48lTvCl9nQn3Ca7j5wwmXbcm4Q9tGjtZKygrZsnI42q1c6oIw9PZwSSfbIzXKi53Bnt1H3dGYN0KMQFn1BzgQvaaZHZBSuo9rAr6mn6I1e8RdXPXFFH0ze64S364KAb0ij2mBveo8o9U_Al1e6fgq_oWt0UtFG5-1Rcot-qp2KU8numooiWerljBWWkuSOLFpe5Qz_sjvl0290D96lJ44Fb9OEiD-ynrGQP5JDPBQ_MoFGooRinRliwGlE0YaMa8jo1JtLPbWoM0Y_maeij4OJpiKbxgZ5Q0pUQT3TQ9vc9kU0FVEV3Uj3xE31W4ImTFDXmiaX0YKYGvaQM08CZSldqUEmrz2uQTKl1GmTS9__W4C6FjGoQRoEJXuj93Au_0vs_eCH1tQRvpFNMnjfi6HmFN8bo8iofXCNDrA8W0g6FL-7H-aKHbLJ90Sj80EpT7P0wjb4744ebVNHrh7_RJkmLFPKz0yKAdEotgmmvvRY5VO2gRR1ZHLWopb6wEAzSsdgQ_IXcyuZAQ41KPVrIx1kPf-r10mOAbKP1cCC7pXpMpju79fiRupr06KNH9_V4SjUv9fhINhe59PPJuRiivl2hGKTmT0PRTl1eYeinN2aGAbTYJxzxFB4QjmiKPx2ONbSHDlAlfUmN1PL6l_BTSkM4MmiCdwTsaaYhArMpLicCq-nt0xEIpV1GA7Lp_mYDeuj0FgMKKX2nAfvo0XEDntI3dw1ooNw_zUcePf1uPv5HGJ4PW_pjQCS20G-WSIxRblUkTlDsT5GIpysqI1roTIwRRdR82ohW-lelEe209x9G5FDvkBFr_mPEesp5aURwahTCybYsCpOo_14UHlPM29FYReVUQ8m3HiKN-pd14zFtTuxGKs1e341QWvLPbiRQU1gPbtA6Sw-yvulBDuVSHp2kAvLd14tAUlmPf3FrbxOUt49fuK1wlVZtSNrhqVm9bVtKQPKGzUlpzBmpSTu3JO1MnKWbFaSbPStohk6XuE33fzccGyQ&build-label=apps-fileview.texmex_20250925.00_p0&imp-sid=CIna1rjpiJADFWHwcwQdPlMoJQ&is-cached-offline=false"
+Document-Policy: include-js-call-stacks-in-crash-reports
+Referrer-Policy: origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Set-Cookie: NID=525=AqY2IThOYloUuU2UrkTrT6g0ZKwkAr7PCUO2x4gEgSuLfPD6n_fhtGTM4PTFEfUI-qPwi2HBum5ABn2EE3W4Z7_DY5gCiVsJdL9x7EKmeM8p2_ajsQlKqd9fIYZYINwuBH90yZ-wnhDPBhgvsSJTD12fjFzDw6JQyvqoSvoA69F9Eb7bH73f4qkAy9mbp-yn; expires=Sat, 04-Apr-2026 20:03:06 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+
+]
+[2025-10-04 06:53:10,727:ERROR:main:File is not a zip file]
+Traceback (most recent call last):
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/main.py", line 11, in <module>
+    data_ingestion.main()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/components/data_ingestion.py", line 32, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1385, in __init__
+    self._RealGetContents()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1452, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2025-10-04 06:56:12,505:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 06:56:12,510:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 06:56:12,512:INFO:common:created directory at: artifacts]
+[2025-10-04 06:56:12,514:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-04 06:56:12,518:INFO:986331348:Downloading data from https://drive.google.com/file/d/1JzcLKYUBjGK_4uRjNNMFjmfhJLqKnj1o/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2025-10-04 06:56:39,537:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 06:56:39,541:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 06:56:39,544:INFO:common:created directory at: artifacts]
+[2025-10-04 06:56:39,547:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-04 06:56:39,549:INFO:986331348:Downloading data from https://drive.google.com/file/d/1JzcLKYUBjGK_4uRjNNMFjmfhJLqKnj1o/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2025-10-04 06:58:28,143:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-10-04 06:58:28,147:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 06:58:28,149:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 06:58:28,149:INFO:common:created directory at: artifacts]
+[2025-10-04 06:58:28,150:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-04 06:58:29,103:INFO:data_ingestion:artifacts/data_ingestion/data.zip download: with following info: 
+ Content-Type: text/html; charset=utf-8
+X-Robots-Tag: noindex, nofollow, nosnippet
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Fri, 03 Oct 2025 20:08:54 GMT
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Content-Security-Policy: require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/docs-tt
+Reporting-Endpoints: default="/file/d/1JzcLKYUBjGK_4uRjNNMFjmfhJLqKnj1o/web-reports?bl=apps-fileview.texmex_20250925.00_p0&app=15&clss=1&context=eJwVyXlc1HUex_Fp5vd9SyIwHMIACiMgMCGCPqIQkMOBYcyTPAYeLZAXrgpGC6IE4oEYaoZrbD42URDQgAG5ajfCo1UQZAWJNiwUt5CjAMN1JUla2bd_PB-fz-f1mX7LstDEIKsyNcg0MwyyEqVBlqEyyOrcDbIPNQbZ1CsG2TQvg8zL2yDL9jXI_I8bZHqK2xwt2_nCKyPyNFrT91j-Fi1d9l95FF3aPy5vovoD4_JGOrfjqbyczgVNyMspf_GEvICmJ0zIrejB0Qn5CKW1_SbPIg-rZ3If6it6Jh-mjqnn8m5Sz56Se5JJ-pRcSf0lLylGybZZrnCijudyRTc9eFOhGKGMAwpFNp09rFBcoOIBhaKCbrwsKTpINhYgmdD9J4HSIB09FSSdpGT_xdIeSnELljJo1BAqPaFUfZiUSd7LwiQ_upwdJrWT5uMwaRFNPgyTFL-ESSGZS6RIyjQukQ6RpmqJtICSkrXSLmpJ00q3qSFdK92kumqt9CWZ1WulmZTzuVY6TuYu4ZIt3faKkO6QcnuEpKIj70ZIfyb9lQhpNSmH2CnfTycVUNxmnbSTjCmRUiO17dBLXZRtvVQ6Rp7T3pB86diaQvERFfy9UJSSel2R8KW_PikS52iVVbGIJwfHYuFCJa8Xi3oqW1ksakhlUyI8aat9idhNX14vEW1k31QiNGR5jzutGysRsfR6XKmIJNNtpcKauhJLRQ9l9ZeKw7R903nxHq2tPS_-QIrLF4QpXT70qWgmb-cy4UcfxJSJfGrLLRNddGm0TNyinp8rRB-NzTOKpxSz0ig20N7NRpFDVllG4UBLy40iip4eqRRT9PPxSvEbxXtVia10M6FKfE_5z6tEKSlXXxRq6tp4UfRQ2s6LIou6q4bFfbrUOSyayBg7IuppU-GISKFHrSNigp4Ej4rf6dS1UVFI33zyUNyliWhTyGJMYXXFFPoeU6ygNc9MEU3G0zNQQ-0FM9BFhf0z8Ck1WZjhFqUnmeEIBXxhhiV0bMQMJygqxBzryfagOZwosNkcWmpPsEAXfXvWAr1UcV6JOsotV-I45VUokU8zJ5WYS8NvWeIxNdZZ4jo1-lrhOrUFWuE2GTOtUENdb1ujhxQbrWFKE-02kHXYYEuPDXZR3z0bDFNn-kx8Rxbvz4Qd7b5ni330BuzwJi3fZIe1tDPRDmlUq1ahgZxdVPAhywQV7Km1SoVO6r-pwigdCbDHh9RaZI9OWl5ij7VUf9QBjTTvkQNepdqnDmigedsd8Sq9e9gRaRR9whFvU_W-WfiM6g_Owhd0o2EWOqjKaTYu06-1szFJhQOzUUqr3JywljLSnJBNhkonBI05IZy-c3JGL7W4OuMOvbfcGQdpbwInuX_ujPk0CTUU09QI8Vcjkqy3qyFvUGM6_dShxkP6d8kcDJF_2RzoycTHBUq6FuCCLtr1jgtyqIhq6PtUF_xIHxW54DTdX-CKQVKGuEJFFetcUU0bLrgigVIbXJFJ3_zLFXcpYNIVIeQT54bBT9zwC73zrRtSX4ibi3SKyp-LGLqy3h03SBvtjmW0W-GB3hgPDJBZjgdmWXpiDn191hPddHHQE3-jHZIGKeRpoYE3-So18Kf9lhrkUq21Bg1ktNGgnoZCAjBKJ6ID8BdyrAyEK12tDUQTNSuD0EbuqiB40aBbEEbIXB8Ea7JYFQQ7-iGLP-prCcIQPeoNwji9L1uMPPrp9GI8pKG9wRil1pPB6KQ-txAM00sLQgBa4R6KWAr1DoWeYs-EYiPto0NUTZ9RM7W96OXslNIUigx6eW4YLGmBNgyLKCY3DBvotTNhCKa9Oi1yqDdRiwE6k6RFMaXv0eIAPfpYi3G6eleLJsr7UzjyafzrcPyPMBYOc_qjdwSS6BQV0K_GCDynvBo2iv4xArF0zUqHNjobpUMprcvSofWMDu30z2odOmn_Vzrk0sb_6LCVcn_X4at5kWgm_9RIhJJ5ZSRsafheJB5T1Gt6rKcqqqOIH_RYQQl3HiCNhlf34zElxvcjlRZt7UcwrfxHP-KoJWQAt2izcQDZVweQS3mUT6epiDwODMKHTo4OwcrUpLtnfwuUZa2dyQ7S-m1bdru4bkhOTvFO2Ja4JY3n_NQte5K27Ilf6LvQz3fRQr_5vr7xyb7_BxuBGHE&build-label=apps-fileview.texmex_20250925.00_p0&imp-sid=CLq-od7qiJADFQgeoAAdtYcfRw&is-cached-offline=false"
+Document-Policy: include-js-call-stacks-in-crash-reports
+Referrer-Policy: origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Set-Cookie: NID=525=lRUbLJgWJcTAbcxnoxlUBt2yN__rnae0FjkZqP0ekpm4deT6EPY-QqmCXFxQFaVvP7T7OZTMDQOiz7rD42WCLt99LYZ3pzIRC8aULQla5Ibox14TagggXLpawWRRdzKSul74spv2nQ9Y5WkTMFuhZjpk6LXB2BTIso8TlDxFifDZIsfsJKDxmXZx0GomvOOj; expires=Sat, 04-Apr-2026 20:08:54 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site,Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+
+]
+[2025-10-04 06:58:29,104:ERROR:main:File is not a zip file]
+Traceback (most recent call last):
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/main.py", line 11, in <module>
+    data_ingestion.main()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/pipeline/stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/meetpatel12_/Documents/Projects/6th Sem/Kidney Disease Classification/.venv/lib64/python3.13/site-packages/cnnClassifier/components/data_ingestion.py", line 32, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+         ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1385, in __init__
+    self._RealGetContents()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib64/python3.13/zipfile/__init__.py", line 1452, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2025-10-04 06:58:40,064:INFO:common:yaml file: config/config.yaml loaded successfully]
+[2025-10-04 06:58:40,068:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-04 06:58:40,072:INFO:common:created directory at: artifacts]
+[2025-10-04 06:58:40,074:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-04 06:58:40,076:INFO:986331348:Downloading data from https://drive.google.com/file/d/1JzcLKYUBjGK_4uRjNNMFjmfhJLqKnj1o/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-10-04 06:58:50,730:INFO:986331348:Downloaded data from https://drive.google.com/file/d/1JzcLKYUBjGK_4uRjNNMFjmfhJLqKnj1o/view?usp=sharing into file artifacts/data_ingestion/data.zip]
